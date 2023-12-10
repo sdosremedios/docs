@@ -15,7 +15,10 @@ jQuery(document).ready(function(){
 //	forum footer text
 	$("a").filter(function() {
 		return $(this).text() === "Powered by";
-	}).parent().attr('display','none');
+	}).css({'visibility':'hidden','display':'none'})
+		.next().css({'visibility':'hidden','display':'none'})
+		.parent().css({'visibility':'hidden','display':'none'});
+//		.prev().css({'visibility':'hidden','display':'none'});
 
 //	banner text
 	jQuery('<p id="bannerCaption" style="font-weight: bold; padding-left: 20px; color: white;">North Rim, Grand Canyon</p>')

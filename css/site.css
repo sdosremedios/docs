@@ -83,7 +83,14 @@ div.tag-category h3 a {
 	font-size: 18px;
 }
 /* --------------------------------------------------------- */
+/* FORUM STYLES
+/* --------------------------------------------------------- */
+.mod-kunena-breadcrumbs li {
+	margin-right: 10px;
+}
+/* --------------------------------------------------------- */
 /* PHOTO STYLES
+mod-kunena-breadcrumbs breadcrumb
 /* --------------------------------------------------------- */
 p.photoRight, p.photoLeft {
     display: inline-block;
