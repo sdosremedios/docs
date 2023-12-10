@@ -1,0 +1,19 @@
+﻿/* --------------------------------------------------------- */
+/* ACCORDION STYLES
+/* --------------------------------------------------------- */
+.accordion {
+    clear: both;
+    display: block;
+    padding-left: 30px;
+    background: url(/docs/css/accordion-24x24.png) no-repeat;
+    background-position: 0 0;
+    line-height: 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.accordion.minus {
+    background-position: 0 -24px;
+}
+.accordion.plus {
+    background-position: 0 0;
+}

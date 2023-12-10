@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<birds>
+	<bird id="106" name="106" location="Galapagos" url="https://farm5.static.flickr.com/4687/27406779279_f8392a63a4_b.jpg" />
+	<bird id="110" name="110" location="Galapagos" url="https://farm5.static.flickr.com/4633/39183585021_6bf46994c3_b.jpg" />
+	<bird id="129" name="129" location="Nepal" url="https://farm3.static.flickr.com/2909/32899345303_6792ec8444_b.jpg" />
+	<bird id="139" name="139" location="Australia" url="https://farm1.static.flickr.com/813/39251533740_c6a83a5a77_b.jpg" />
+	<bird id="214" name="214" location="Galapagos" url="https://farm5.static.flickr.com/4107/5207795696_4480f7cbdd_b.jpg" />
+	<bird id="222" name="222" location="Galapagos" url="https://farm5.static.flickr.com/4144/5207143505_1489f18bed_b.jpg" />
+	<bird id="240" name="240" location="Oakland, CA" url="https://farm6.static.flickr.com/5329/9347510662_991bd5f0b3_b.jpg" />
+	<bird id="243" name="243" location="Lodi, CA" url="https://farm8.static.flickr.com/7350/11792289684_5da9f8de00_b.jpg" />
+	<bird id="244" name="244" location="Lodi, CA" url="https://farm4.static.flickr.com/3774/11792379433_0056ae469e_b.jpg" />
+	<bird id="245" name="245" location="Lodi, CA" url="https://farm8.static.flickr.com/7411/11793022356_5568f37d3e_b.jpg" />
+	<bird id="246" name="246" location="Lodi, CA" url="https://farm8.static.flickr.com/7395/11792542543_9ae52cd1c3_b.jpg" />
+	<bird id="273" name="273" location="" url="https://farm1.static.flickr.com/625/22347755994_55a72c6ae9_b.jpg" />
+	<bird id="277" name="277" location="" url="https://farm1.static.flickr.com/742/22972154815_ddcc1c423a_b.jpg" />
+	<bird id="289" name="289" location="Guatemala" url="https://farm1.static.flickr.com/510/32185697322_ea9f8c8f0d_b.jpg" />
+	<bird id="301" name="301" location="Galapagos" url="https://farm5.static.flickr.com/4737/39156267772_ff8aef9ec9_b.jpg" />
+	<bird id="309" name="309" location="Galapagos" url="https://farm5.static.flickr.com/4634/38307822965_971db47a66_b.jpg" />
+	<bird id="310" name="310" location="Galapagos" url="https://farm5.static.flickr.com/4727/24323576517_cc69356a72_b.jpg" />
+	<bird id="323" name="323" location="" url="https://farm66.static.flickr.com/65535/52025826047_137f5b26a2_b.jpg" />
+	<bird id="327" name="327" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489140201_86f29a28b5_b.jpg" />
+	<bird id="336" name="336" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489410932_a1ab6efe38_b.jpg" />
+	<bird id="35" name="35" location="Chobe" url="https://farm1.static.flickr.com/745/22552488577_2f969d3d88_b.jpg" />
+	<bird id="350" name="350" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489403351_a5a493b7f4_b.jpg" />
+	<bird id="355" name="355" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489584567_beb1c988d2_b.jpg" />
+	<bird id="363" name="363" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489722337_ea6e416c23_b.jpg" />
+	<bird id="370" name="370" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489800967_fbaf41e0c9_b.jpg" />
+	<bird id="376" name="376" location="Hayward, CA" url="https://farm66.static.flickr.com/65535/52026904183_185abb78ff_b.jpg" />
+	<bird id="377" name="377" location="Hayward, CA" url="https://farm66.static.flickr.com/65535/52026904153_b3b4fa4e50_b.jpg" />
+	<bird id="379" name="379" location="Oakland, CA" url="https://farm66.static.flickr.com/65535/52027380480_d753868945_b.jpg" />
+	<bird id="382" name="382" location="San Francisco, CA" url="https://farm66.static.flickr.com/65535/52043662925_9ab0fa7414_b.jpg" />
+	<bird id="49" name="49" location="Kafue" url="https://farm1.static.flickr.com/674/22578741869_eece00c243_b.jpg" />
+	<bird id="53" name="53" location="Kafue" url="https://farm6.static.flickr.com/5667/22944951466_d0d4fbe8cf_b.jpg" />
+	<bird id="70" name="70" location="Capetown" url="https://farm1.static.flickr.com/603/22787062370_21c4a81bd7_b.jpg" />
+	<bird id="71" name="71" location="Capetown" url="https://farm6.static.flickr.com/5646/22556796688_9323f7cb28_b.jpg" />
+	<bird id="87" name="87" location="Chile" url="https://farm2.static.flickr.com/1606/26029458705_8b4d209d86_b.jpg" />
+	<bird id="223" name="Acorn Woodpecker" location="" url="https://farm3.static.flickr.com/2402/2470196772_8496c86dc0_b.jpg" />
+	<bird id="238" name="Acorn Woodpecker" location="" url="https://farm9.static.flickr.com/8110/8635854965_5faee21a17_b.jpg" />
+	<bird id="239" name="Acorn Woodpecker with Acorn" location="" url="https://farm9.static.flickr.com/8113/8635856895_6b4f8018df_b.jpg" />
+	<bird id="64" name="African Fin Foot" location="Kafue" url="https://farm6.static.flickr.com/5642/22957899682_ca2fb492f8_b.jpg" />
+	<bird id="24" name="African Jacana" location="Chobe" url="https://farm6.static.flickr.com/5833/22532571757_2a9854d8be_b.jpg" />
+	<bird id="28" name="African Jacana" location="Chobe" url="https://farm1.static.flickr.com/613/22558800499_313b55a92b_b.jpg" />
+	<bird id="50" name="African Jacana" location="Kafue" url="https://farm6.static.flickr.com/5666/22552581277_01174a3bb7_b.jpg" />
+	<bird id="51" name="African Jacana" location="Kafue" url="https://farm6.static.flickr.com/5676/22552640998_88fd06c4e5_b.jpg" />
+	<bird id="58" name="African Jacana" location="Kafue" url="https://farm1.static.flickr.com/743/22982360121_59b43ab765_b.jpg" />
+	<bird id="33" name="African Skimmer" location="Chobe" url="https://farm1.static.flickr.com/577/22955784112_fd31ae2f76_b.jpg" />
+	<bird id="34" name="African Spoonbill" location="Chobe" url="https://farm1.static.flickr.com/572/22943373836_96665ab5d7_b.jpg" />
+	<bird id="381" name="American kestrel" location="Oakland, CA" url="https://farm66.static.flickr.com/65535/52041191079_5fa9c04e14_b.jpg" />
+	<bird id="320" name="Arctic Terns" location="Iceland" url="https://farm2.static.flickr.com/1792/43011802235_59c273ca33_b.jpg" />
+	<bird id="318" name="Atlantic Puffin" location="Iceland" url="https://farm1.static.flickr.com/853/42107626460_09a6e83064_b.jpg" />
+	<bird id="321" name="Atlantic Puffin" location="Iceland" url="https://farm66.static.flickr.com/65535/52025821577_1a228c3d66_b.jpg" />
+	<bird id="322" name="Atlantic Puffin" location="Iceland" url="https://farm1.static.flickr.com/934/43868231182_4af43a5814_b.jpg" />
+	<bird id="362" name="Augur Buzzard" location="" url="https://farm66.static.flickr.com/65535/48489720052_a336f38c10_b.jpg" />
+	<bird id="142" name="Australian white ibis" location="Australia" url="https://farm1.static.flickr.com/874/26189713807_bd79695194_b.jpg" />
+	<bird id="236" name="Beggar" location="" url="https://farm9.static.flickr.com/8112/8528969821_e382de9297_b.jpg" />
+	<bird id="366" name="Black Crake" location="" url="https://farm66.static.flickr.com/65535/48489582386_4e5f12f4ea_b.jpg" />
+	<bird id="227" name="Black Mallard" location="" url="https://farm9.static.flickr.com/8094/8364193749_5962b4641a_b.jpg" />
+	<bird id="134" name="Black robin" location="New Zealand" url="https://farm1.static.flickr.com/817/41057088071_1fac21e331_b.jpg" />
+	<bird id="152" name="Black-crowned night heron" location="Guatemala" url="https://farm1.static.flickr.com/566/31493755354_f6a17099f6_b.jpg" />
+	<bird id="292" name="Black-masked Hawk" location="" url="https://farm1.static.flickr.com/564/31525045623_014e170c6a_b.jpg" />
+	<bird id="303" name="Black-necked Stilt" location="" url="https://farm5.static.flickr.com/4729/38476442294_f7b50df0bb_b.jpg" />
+	<bird id="83" name="Black-necked Swans" location="Chile" url="https://farm2.static.flickr.com/1709/25426395883_2cd0091085_b.jpg" />
+	<bird id="136" name="Black-necked stork" location="Australia" url="https://farm1.static.flickr.com/902/27188944768_e7a2f5ed86_b.jpg" />
+	<bird id="137" name="Black-necked stork" location="Australia" url="https://farm1.static.flickr.com/804/41018411702_cfd246eb44_b.jpg" />
+	<bird id="232" name="Blue Sabrewing" location="" url="https://farm9.static.flickr.com/8519/8528812970_3bb74aa8c5_b.jpg" />
+	<bird id="264" name="Blue-earred Starling" location="" url="https://farm1.static.flickr.com/625/22556212809_18e92d4af6_b.jpg" />
+	<bird id="312" name="Blue-footed Booby" location="" url="https://farm5.static.flickr.com/4592/38476898294_0cb6001474_b.jpg" />
+	<bird id="119" name="Blue-footed Booby" location="Galapagos" url="https://farm5.static.flickr.com/4681/25318642838_06c08f84c1_b.jpg" />
+	<bird id="217" name="Blue-footed booby" location="Galapagos" url="https://farm6.static.flickr.com/5248/5207805218_ec61145e3e_b.jpg" />
+	<bird id="220" name="Blue-footed booby" location="Galapagos" url="https://farm5.static.flickr.com/4104/5207728670_8a484149e8_b.jpg" />
+	<bird id="135" name="Brown Kiwi" location="New Zealand" url="https://farm1.static.flickr.com/819/41057178581_c15364f1f9_b.jpg" />
+	<bird id="226" name="Brown Pelican" location="Oakland, CA" url="https://farm9.static.flickr.com/8451/8058385718_b161b93fec_b.jpg" />
+	<bird id="268" name="Brown Snake Eagle" location="" url="https://farm1.static.flickr.com/654/22347301474_4d182129fd_b.jpg" />
+	<bird id="329" name="Brown Snake Eagle" location="" url="https://farm66.static.flickr.com/65535/50561645242_d2dda9b49b_b.jpg" />
+	<bird id="141" name="Brown noddy" location="Australia" url="https://farm1.static.flickr.com/896/41018439812_48089cbc3b_b.jpg" />
+	<bird id="63" name="Brown-hooded Kingfisher" location="Kafue" url="https://farm1.static.flickr.com/636/22982423621_47531e6735_b.jpg" />
+	<bird id="265" name="Carmine Bee Eater" location="" url="https://farm6.static.flickr.com/5836/22530272308_2531bf62c9_b.jpg" />
+	<bird id="21" name="Carmine Bee Eater" location="Chobe" url="https://farm1.static.flickr.com/668/22556428239_53e6373e41_b.jpg" />
+	<bird id="140" name="Cassowary" location="Australia" url="https://farm1.static.flickr.com/805/41018454942_46136e9cdb_b.jpg" />
+	<bird id="122" name="Cattle Egret" location="Galapagos" url="https://farm5.static.flickr.com/4725/25318694158_ea21bc8ea6_b.jpg" />
+	<bird id="229" name="Common Potoo" location="" url="https://farm9.static.flickr.com/8249/8528733374_efd717c920_b.jpg" />
+	<bird id="124" name="Condor" location="Marble Canyon" url="https://farm6.static.flickr.com/5133/29550172724_5892846367_b.jpg" />
+	<bird id="85" name="Cormorant" location="Chile" url="https://farm2.static.flickr.com/1531/25424560694_f10b00d347_b.jpg" />
+	<bird id="250" name="Cormorants" location="" url="https://farm8.static.flickr.com/7415/12646615363_a12a076564_b.jpg" />
+	<bird id="283" name="Couple" location="" url="https://farm1.static.flickr.com/687/31930684336_b8313f6d7e_b.jpg" />
+	<bird id="216" name="Courtship" location="" url="https://farm6.static.flickr.com/5170/5207800260_1d823b8ed1_b.jpg" />
+	<bird id="88" name="Crowned Caracara" location="Chile" url="https://farm2.static.flickr.com/1523/25936921582_e6d36d3388_b.jpg" />
+	<bird id="297" name="Crowned Heron" location="" url="https://farm1.static.flickr.com/291/31955174050_1d66d328a6_b.jpg" />
+	<bird id="330" name="Crowned Plover" location="" url="https://farm66.static.flickr.com/65535/48489326107_f4363a3374_b.jpg" />
+	<bird id="275" name="Dove" location="" url="https://farm6.static.flickr.com/5753/22552147507_2305d00471_b.jpg" />
+	<bird id="325" name="Duck" location="" url="https://farm66.static.flickr.com/65535/52026865301_522533a995_b.jpg" />
+	<bird id="374" name="Duck" location="" url="https://farm66.static.flickr.com/65535/52027111529_00b15ca999_b.jpg" />
+	<bird id="317" name="Dusky Moorhen" location="Sequoia National Forest, California" url="https://farm66.static.flickr.com/65535/52026865496_02bd5226d8_b.jpg" />
+	<bird id="193" name="Eagle Owls" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489455086_0ddd85bc92_b.jpg" />
+	<bird id="359" name="Egyptian Geese" location="" url="https://farm66.static.flickr.com/65535/48489456461_fa0ccb6c9e_b.jpg" />
+	<bird id="14" name="Egyptian Goose" location="Chobe" url="https://farm1.static.flickr.com/643/22529682777_319814fe1d_b.jpg" />
+	<bird id="31" name="Egyptian Goose" location="Chobe" url="https://farm1.static.flickr.com/637/22968656215_22ff7fe3b5_b.jpg" />
+	<bird id="32" name="Egyptian Goose" location="Chobe" url="https://farm1.static.flickr.com/579/22968873115_8a09d9b2be_b.jpg" />
+	<bird id="52" name="Egyptian Goose" location="Kafue" url="https://farm1.static.flickr.com/612/22578807489_f6926d1abd_b.jpg" />
+	<bird id="128" name="Eurasian scops owl" location="India" url="https://farm3.static.flickr.com/2897/33070868783_cf31675baa_b.jpg" />
+	<bird id="274" name="Fayoumi" location="" url="https://farm1.static.flickr.com/769/22981634301_ec400e2af5_b.jpg" />
+	<bird id="343" name="Female Ostrich" location="" url="https://farm66.static.flickr.com/65535/48489503397_fd58826509_b.jpg" />
+	<bird id="234" name="Female Quetzal" location="" url="https://farm9.static.flickr.com/8106/8527730741_2111e24af8_b.jpg" />
+	<bird id="308" name="Finches" location="" url="https://farm5.static.flickr.com/4680/27406886079_8d06ff619a_b.jpg" />
+	<bird id="361" name="Fischer's Lovebirds" location="" url="https://farm66.static.flickr.com/65535/48489520026_a730d09823_b.jpg" />
+	<bird id="257" name="Fish Eagle" location="" url="https://farm6.static.flickr.com/5690/22934363192_ec922aabd2_b.jpg" />
+	<bird id="260" name="Fish Eagle" location="" url="https://farm1.static.flickr.com/677/22947933675_8011bb28bf_b.jpg" />
+	<bird id="7" name="Fish Eagle" location="Chobe" url="https://farm1.static.flickr.com/739/22947884545_69c7639e4a_b.jpg" />
+	<bird id="15" name="Fish Eagle" location="Chobe" url="https://farm1.static.flickr.com/608/22325573454_ebecb08a02_b.jpg" />
+	<bird id="54" name="Fish Eagle" location="Kafue" url="https://farm6.static.flickr.com/5690/22578895239_1ae89d55f4_b.jpg" />
+	<bird id="90" name="Flamingo" location="Chile" url="https://farm2.static.flickr.com/1556/25756747480_276bafc21c_b.jpg" />
+	<bird id="218" name="Flamingo Lagoon" location="" url="https://farm5.static.flickr.com/4111/5207214283_751763ff07_b.jpg" />
+	<bird id="290" name="Flycatcher" location="" url="https://farm1.static.flickr.com/688/31493763534_f616e891db_b.jpg" />
+	<bird id="293" name="Flycatcher" location="" url="https://farm1.static.flickr.com/381/31520959403_0a7b0e20ca_b.jpg" />
+	<bird id="215" name="Frigate Bird" location="" url="https://farm6.static.flickr.com/5127/5207789790_cc38482290_b.jpg" />
+	<bird id="97" name="Frigate Bird" location="Galapagos" url="https://farm6.static.flickr.com/5042/5207723160_65a3b0c00b_b.jpg" />
+	<bird id="116" name="Frigate Bird" location="Galapagos" url="https://farm5.static.flickr.com/4736/38307871675_340bbe61de_b.jpg" />
+	<bird id="311" name="Galapagos Gull" location="" url="https://farm5.static.flickr.com/4590/39156582812_8103447211_b.jpg" />
+	<bird id="316" name="Galapagos Hawk" location="" url="https://farm5.static.flickr.com/4592/25404874528_87012244be_b.jpg" />
+	<bird id="300" name="Giant Hummingbird" location="" url="https://farm66.static.flickr.com/65535/52026865386_d862143cb4_b.jpg" />
+	<bird id="10" name="Giant Kingfisher" location="Chobe" url="https://farm1.static.flickr.com/585/22529583917_e80a86e306_b.jpg" />
+	<bird id="219" name="Great Blue Heron" location="" url="https://farm6.static.flickr.com/5164/5207120797_fd8976bee6_b.jpg" />
+	<bird id="55" name="Great Crowned Crane" location="Kafue" url="https://farm1.static.flickr.com/723/22552867298_afb69964de_b.jpg" />
+	<bird id="296" name="Great Heron" location="" url="https://farm1.static.flickr.com/632/32293220696_3e0c9cc84e_b.jpg" />
+	<bird id="267" name="Greater Blue-earred Starling" location="" url="https://farm6.static.flickr.com/5707/22346925474_39c0fb133e_b.jpg" />
+	<bird id="247" name="Green Heron" location="" url="https://farm8.static.flickr.com/7443/12505839564_eb4ca426b4_b.jpg" />
+	<bird id="272" name="Green-barred Woodpecker" location="" url="https://farm6.static.flickr.com/5830/22552123077_3375818aa4_b.jpg" />
+	<bird id="261" name="Grey Heron" location="" url="https://farm6.static.flickr.com/5783/22326880123_5b087b333e_b.jpg" />
+	<bird id="304" name="Ground Finch" location="" url="https://farm5.static.flickr.com/4589/25318190688_58e0b5a8a9_b.jpg" />
+	<bird id="306" name="Ground Finch" location="" url="https://farm5.static.flickr.com/4646/27406798419_a8062bf8cb_b.jpg" />
+	<bird id="299" name="Grouse" location="" url="https://farm66.static.flickr.com/65535/52025826142_9fdd539535_b.jpg" />
+	<bird id="373" name="Hammerkop" location="" url="https://farm66.static.flickr.com/65535/48489296962_a9b1aa921b_b.jpg" />
+	<bird id="338" name="Helmeted Guineafowl" location="" url="https://farm66.static.flickr.com/65535/48489414967_1ccae9d908_b.jpg" />
+	<bird id="354" name="Helmeted Guineafowl" location="" url="https://farm66.static.flickr.com/65535/48489579702_7b7640129f_b.jpg" />
+	<bird id="2" name="Helmeted Guineafowl" location="Chobe" url="https://farm6.static.flickr.com/5757/22555467179_ab88edb72e_b.jpg" />
+	<bird id="295" name="Heron" location="" url="https://farm1.static.flickr.com/313/31489975194_8dcc52f343_b.jpg" />
+	<bird id="331" name="Hooded Vulture" location="" url="https://farm66.static.flickr.com/65535/48489360107_b00f09ed39_b.jpg" />
+	<bird id="86" name="Humboldt Penguin" location="Chile" url="https://farm2.static.flickr.com/1472/26029338725_d237c71622_b.jpg" />
+	<bird id="294" name="Jacana" location="" url="https://farm1.static.flickr.com/687/32332246515_b1fd64a3a1_b.jpg" />
+	<bird id="241" name="Juvenile Heron" location="" url="https://farm8.static.flickr.com/7384/11509695276_12861911ff_b.jpg" />
+	<bird id="249" name="Juvenile Night Heron" location="" url="https://farm8.static.flickr.com/7300/12505426675_d8b7831585_b.jpg" />
+	<bird id="132" name="Kaka (kay-kay)" location="New Zealand" url="https://farm1.static.flickr.com/791/41057096371_2b340ea61f_b.jpg" />
+	<bird id="133" name="Kaka (kay-kay)" location="New Zealand" url="https://farm1.static.flickr.com/892/41057093411_186365907e_b.jpg" />
+	<bird id="284" name="Keel-bill Toucan" location="" url="https://farm1.static.flickr.com/366/31930773606_fcdd8a9beb_b.jpg" />
+	<bird id="231" name="Keel-billed Tucan" location="" url="https://farm9.static.flickr.com/8229/8527677891_3728c7f30c_b.jpg" />
+	<bird id="380" name="Kelp gull" location="Antarctica" url="https://farm66.static.flickr.com/65535/52026865231_24ee939e50_b.jpg" />
+	<bird id="263" name="Kori Bustard" location="" url="https://farm6.static.flickr.com/5636/22760341730_7e2113d5e2_b.jpg" />
+	<bird id="348" name="Kori Bustard" location="" url="https://farm66.static.flickr.com/65535/48489400121_53f96ffca9_b.jpg" />
+	<bird id="367" name="Kori Bustard" location="" url="https://farm66.static.flickr.com/65535/48489613861_25f4208198_b.jpg" />
+	<bird id="368" name="Kori Bustard" location="" url="https://farm66.static.flickr.com/65535/48489617851_3e0daf0cf3_b.jpg" />
+	<bird id="344" name="Lappet-faced Vulture" location="" url="https://farm66.static.flickr.com/65535/48489505982_155fbac8c6_b.jpg" />
+	<bird id="357" name="Lapwing" location="" url="https://farm66.static.flickr.com/65535/48489423771_fc81012a63_b.jpg" />
+	<bird id="253" name="Lilac-breasted Roller" location="" url="https://farm1.static.flickr.com/743/22326480083_353b58c487_b.jpg" />
+	<bird id="356" name="Lilac-breasted Roller" location="" url="https://farm66.static.flickr.com/65535/48489587182_5eabe414c7_b.jpg" />
+	<bird id="360" name="Lilac-breasted Roller" location="" url="https://farm66.static.flickr.com/65535/48489685317_d93b8227fb_b.jpg" />
+	<bird id="369" name="Lilac-breasted Roller" location="" url="https://farm66.static.flickr.com/65535/48489797422_35bf246ec0_b.jpg" />
+	<bird id="18" name="Lilac-breasted Roller" location="Chobe" url="https://farm1.static.flickr.com/752/22556220389_dc230b3e1f_b.jpg" />
+	<bird id="228" name="Little Blue Heron and Snowy Egret" location="" url="https://farm9.static.flickr.com/8111/8528732356_86807115a2_b.jpg" />
+	<bird id="342" name="Male Ostrich" location="" url="https://farm66.static.flickr.com/65535/48489333596_63b3a4a2ca_b.jpg" />
+	<bird id="233" name="Male Quetzal" location="" url="https://farm9.static.flickr.com/8238/8527723443_b63da0e9f5_b.jpg" />
+	<bird id="235" name="Male Quetzal" location="" url="https://farm9.static.flickr.com/8384/8530078076_506d713f1a_b.jpg" />
+	<bird id="371" name="Masked Weaver" location="" url="https://farm66.static.flickr.com/65535/48489632051_b2a596c592_b.jpg" />
+	<bird id="270" name="Mirabou Stork" location="" url="https://farm1.static.flickr.com/654/22348907533_77463b8237_b.jpg" />
+	<bird id="271" name="Mirabou Stork" location="" url="https://farm6.static.flickr.com/5726/22551791547_b9f471b44f_b.jpg" />
+	<bird id="41" name="Mirabou Stork" location="Okavango Delta" url="https://farm6.static.flickr.com/5711/22944115736_7951434bfc_b.jpg" />
+	<bird id="302" name="Mockingbird" location="" url="https://farm5.static.flickr.com/4726/25318173198_fd0eb2fee0_b.jpg" />
+	<bird id="319" name="Murre" location="" url="https://farm1.static.flickr.com/936/42107624860_3083439ceb_b.jpg" />
+	<bird id="313" name="Nazca Boobie" location="" url="https://farm5.static.flickr.com/4594/24323645127_5a2c5b077f_b.jpg" />
+	<bird id="315" name="Nazca Boobie" location="" url="https://farm5.static.flickr.com/4738/27407024469_108d7e662b_b.jpg" />
+	<bird id="225" name="Night Heron" location="" url="https://farm9.static.flickr.com/8155/7693936800_a429c3a94b_b.jpg" />
+	<bird id="25" name="Openbill Stork" location="Chobe" url="https://farm1.static.flickr.com/726/22328206754_b957bfd424_b.jpg" />
+	<bird id="30" name="Openbill Stork" location="Chobe" url="https://farm1.static.flickr.com/720/22550286737_b7c41cb513_b.jpg" />
+	<bird id="332" name="Ostrich" location="" url="https://farm66.static.flickr.com/65535/48489365507_6effd44c24_b.jpg" />
+	<bird id="166" name="Ostrich" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489174286_af46e21c44_b.jpg" />
+	<bird id="205" name="Ostrich" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489625106_4b3d153322_b.jpg" />
+	<bird id="279" name="Ostrich Chicks" location="" url="https://farm1.static.flickr.com/628/22351027433_0c98deef6c_b.jpg" />
+	<bird id="127" name="Owl" location="India" url="https://farm3.static.flickr.com/2876/33727570762_6a7ef9e60a_b.jpg" />
+	<bird id="378" name="Parakeet" location="" url="https://farm66.static.flickr.com/65535/52027380320_6b38273d61_b.jpg" />
+	<bird id="125" name="Parakeet" location="India" url="https://farm3.static.flickr.com/2865/33499068200_c49ba1d8a1_b.jpg" />
+	<bird id="224" name="Pelican" location="" url="https://farm66.static.flickr.com/65535/7298916680_21ed078707_b.jpg" />
+	<bird id="276" name="Pied Kingfisher" location="" url="https://farm6.static.flickr.com/5768/22970657065_07eb8f6e66_b.jpg" />
+	<bird id="11" name="Pied Kingfisher" location="Chobe" url="https://farm1.static.flickr.com/603/22922006986_a715fdef34_b.jpg" />
+	<bird id="230" name="Purple Gallinule" location="" url="https://farm9.static.flickr.com/8105/8527631715_f705467e69_b.jpg" />
+	<bird id="372" name="Purple Heron" location="" url="https://farm66.static.flickr.com/65535/48489633926_3484dac02b_b.jpg" />
+	<bird id="138" name="Pukeko" location="Australia" url="https://farm1.static.flickr.com/866/41018398772_61f78cf9fc_b.jpg" />
+	<bird id="328" name="Red-billed Hornbill" location="" url="https://farm66.static.flickr.com/65535/48489143381_17b2b39bdf_b.jpg" />
+	<bird id="19" name="Red-billed Spur Fowl" location="Chobe" url="https://farm1.static.flickr.com/602/22959523991_741bc838ec_b.jpg" />
+	<bird id="341" name="Red-billed Teal" location="" url="https://farm66.static.flickr.com/65535/48489426887_1f5b14ce88_b.jpg" />
+	<bird id="221" name="Red-billed Tropic Bird" location="" url="https://farm6.static.flickr.com/5044/5207734820_733c3cd1b8_b.jpg" />
+	<bird id="314" name="Red-footed Boobie" location="" url="https://farm5.static.flickr.com/4639/24323700567_48ce5b65ce_b.jpg" />
+	<bird id="84" name="Red-legged Cormorant" location="Chile" url="https://farm2.static.flickr.com/1672/26003369396_2bd68362af_b.jpg" />
+	<bird id="339" name="Red-necked Francolin" location="" url="https://farm66.static.flickr.com/65535/48489424042_8802293532_b.jpg" />
+	<bird id="89" name="Rhea" location="Chile" url="https://farm2.static.flickr.com/1471/26003599766_2a24076f9b_b.jpg" />
+	<bird id="337" name="Roufous-naped Lark" location="" url="https://farm66.static.flickr.com/65535/48489412262_dc2f5f75e8_b.jpg" />
+	<bird id="126" name="Rufous treepie" location="India" url="https://farm3.static.flickr.com/2849/33754849211_93e8b55ed0_b.jpg" />
+	<bird id="352" name="Rufous-tailed Weaver" location="" url="https://farm66.static.flickr.com/65535/48489574032_3d1d58c0f6_b.jpg" />
+	<bird id="258" name="Sacred Ibis" location="" url="https://farm1.static.flickr.com/580/22555685519_affc2c0c7b_b.jpg" />
+	<bird id="22" name="Sacred Ibis" location="Chobe" url="https://farm6.static.flickr.com/5834/22762843930_2cb5aba96a_b.jpg" />
+	<bird id="305" name="San Cristobal Mockingbird" location="" url="https://farm5.static.flickr.com/4738/38307746695_3b97e1aac6_b.jpg" />
+	<bird id="282" name="Scarlet macaw" location="Guatemala" url="https://farm1.static.flickr.com/420/31930238606_799839a76b_b.jpg" />
+	<bird id="80" name="Scarlett Macaw" location="Costa Rica" url="https://farm9.static.flickr.com/8244/8528873794_09d6799e59_b.jpg" />
+	<bird id="278" name="Secretary Bird" location="" url="https://farm1.static.flickr.com/609/22983287671_f2eb53f63b_b.jpg" />
+	<bird id="349" name="Secretary Bird" location="" url="https://farm66.static.flickr.com/65535/48489569277_d275f91260_b.jpg" />
+	<bird id="358" name="Secretary Bird" location="" url="https://farm66.static.flickr.com/65535/48489431756_4f7dd74b4d_b.jpg" />
+	<bird id="364" name="Secretary Bird" location="" url="https://farm66.static.flickr.com/65535/48489558706_02b2905cf5_b.jpg" />
+	<bird id="375" name="Shadow" location="" url="https://farm66.static.flickr.com/65535/52026865156_30af92f8b6_b.jpg" />
+	<bird id="298" name="Snake-necked Cormorant" location="" url="https://farm1.static.flickr.com/567/32182129752_a09b65191b_b.jpg" />
+	<bird id="57" name="Snakeneck Heron" location="Kafue" url="https://farm6.static.flickr.com/5802/22982353881_fd58a612b4_b.jpg" />
+	<bird id="242" name="Snowy Egret" location="" url="https://farm6.static.flickr.com/5477/11587132333_a09b28c5be_b.jpg" />
+	<bird id="248" name="Snowy Egret" location="" url="https://farm8.static.flickr.com/7427/12505406335_77438775da_b.jpg" />
+	<bird id="266" name="Southern Ground Hornbill" location="" url="https://farm1.static.flickr.com/595/22980672261_670c6f8795_b.jpg" />
+	<bird id="333" name="Southern Ground Hornbill" location="" url="https://farm66.static.flickr.com/65535/48489367382_f69a0c8b28_b.jpg" />
+	<bird id="36" name="Southern Red-billed Hornbill" location="Okavango Delta" url="https://farm1.static.flickr.com/570/22980836971_589b736d61_b.jpg" />
+	<bird id="353" name="Speckle-fronted Weaver" location="" url="https://farm66.static.flickr.com/65535/48489407631_01ba98fa48_b.jpg" />
+	<bird id="335" name="Speckled Mousebird" location="" url="https://farm66.static.flickr.com/65535/48489221916_eea130c289_b.jpg" />
+	<bird id="62" name="Spur-wing Goose" location="Kafue" url="https://farm6.static.flickr.com/5715/22945262296_91612d2715_b.jpg" />
+	<bird id="324" name="Stork" location="" url="https://farm66.static.flickr.com/65535/52026904338_aa37a3c842_b.jpg" />
+	<bird id="334" name="Superb Starling" location="" url="https://farm66.static.flickr.com/65535/48489206596_4fc8c45322_b.jpg" />
+	<bird id="131" name="Takahe" location="New Zealand" url="https://farm1.static.flickr.com/813/39248454610_019e43d20c_b.jpg" />
+	<bird id="254" name="Tawny Eagle" location="" url="https://farm1.static.flickr.com/584/22934222942_25c2b2c3e2_b.jpg" />
+	<bird id="365" name="Tawny Eagle" location="" url="https://farm66.static.flickr.com/65535/48489741462_6c60355323_b.jpg" />
+	<bird id="345" name="Tawny Eagles" location="" url="https://farm66.static.flickr.com/65535/48489564237_ef2ccca24e_b.jpg" />
+	<bird id="288" name="Tiger-stiped Heron" location="" url="https://farm1.static.flickr.com/542/32185691752_8ed4417684_b.jpg" />
+	<bird id="285" name="Toucan" location="" url="https://farm1.static.flickr.com/628/31967600555_6500f0f607_b.jpg" />
+	<bird id="286" name="Toucan" location="" url="https://farm1.static.flickr.com/741/31930798566_8968ccb139_b.jpg" />
+	<bird id="291" name="Toucan" location="" url="https://farm1.static.flickr.com/714/31958895160_a9e684e1cb_b.jpg" />
+	<bird id="307" name="Tree Finch" location="" url="https://farm5.static.flickr.com/4727/25318373468_906a444bfa_b.jpg" />
+	<bird id="161" name="Turkey" location="Belize" url="https://farm1.static.flickr.com/445/32182337372_010c1a9923_b.jpg" />
+	<bird id="237" name="Turkey Vulture" location="" url="https://farm9.static.flickr.com/8396/8640149537_8d5e752b1d_b.jpg" />
+	<bird id="213" name="Turkey Vulture" location="Mendocino" url="https://farm4.static.flickr.com/3696/11672780753_1917f56a21_b.jpg" />
+	<bird id="281" name="Turquoise-browed Motmot" location="" url="https://farm1.static.flickr.com/769/31129042424_4a4a5c581a_b.jpg" />
+	<bird id="43" name="Veroux Owl" location="Okavango Delta" url="https://farm1.static.flickr.com/707/22578312679_5d69893570_b.jpg" />
+	<bird id="256" name="Vulture" location="" url="https://farm6.static.flickr.com/5834/22958913291_0857fd72c8_b.jpg" />
+	<bird id="262" name="Vulture" location="" url="https://farm6.static.flickr.com/5742/22529933587_66c706af15_b.jpg" />
+	<bird id="255" name="White-backed Vulture" location="" url="https://farm1.static.flickr.com/689/22958789001_bf057946cc_b.jpg" />
+	<bird id="347" name="White-backed Vulture" location="" url="https://farm66.static.flickr.com/65535/48489566232_79263af01e_b.jpg" />
+	<bird id="269" name="White-backed Vultures" location="" url="https://farm6.static.flickr.com/5687/22981180411_0e975091c2_b.jpg" />
+	<bird id="198" name="White-bellied bustard" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489710802_3fb8e2b45d_b.jpg" />
+	<bird id="103" name="White-cheeked Pintail" location="Galapagos" url="https://farm5.static.flickr.com/4686/27406638639_ba8f0e2ee3_b.jpg" />
+	<bird id="12" name="White-crowned Plover" location="Chobe" url="https://farm1.static.flickr.com/639/22529648637_36de8ccc9e_b.jpg" />
+	<bird id="326" name="White-crowned sparrow" location="Oakland, CA" url="https://farm66.static.flickr.com/65535/52026865261_dc616cb6e1_b.jpg" />
+	<bird id="259" name="White-fronted Bee Eater" location="" url="https://farm1.static.flickr.com/735/22326739623_8a0dee1559_b.jpg" />
+	<bird id="23" name="White-fronted Bee Eater" location="Chobe" url="https://farm1.static.flickr.com/592/22558762899_8a2ba3d86a_b.jpg" />
+	<bird id="59" name="White-fronted Bee Eater" location="Kafue" url="https://farm6.static.flickr.com/5835/22945215156_57ed4d8298_b.jpg" />
+	<bird id="60" name="White-fronted Bee Eater" location="Kafue" url="https://farm6.static.flickr.com/5631/22579078109_936a83b60f_b.jpg" />
+	<bird id="61" name="White-fronted Bee Eater" location="Kafue" url="https://farm1.static.flickr.com/611/22982398171_9005104e46_b.jpg" />
+	<bird id="351" name="White-headed Buffalo Weaver" location="" url="https://farm66.static.flickr.com/65535/48489404606_35be5ffe6c_b.jpg" />
+	<bird id="346" name="White-headed Vulture" location="" url="https://farm66.static.flickr.com/65535/48489397126_2f807269f3_b.jpg" />
+	<bird id="130" name="Wild Pukeko" location="New Zealand" url="https://farm1.static.flickr.com/785/40348312224_4ea15f40f9_b.jpg" />
+	<bird id="280" name="Wood Duck" location="" url="https://farm2.static.flickr.com/1560/26025823262_2c8dc0bbb2_b.jpg" />
+	<bird id="252" name="Wood Duck" location="Oakland, CA" url="https://farm8.static.flickr.com/7446/16427361496_c2f9201ce1_b.jpg" />
+	<bird id="251" name="Wood Ducks" location="" url="https://farm8.static.flickr.com/7469/16336700861_5d182106a7_b.jpg" />
+	<bird id="287" name="Woodpecker" location="" url="https://farm1.static.flickr.com/419/31522462083_fac20ce378_b.jpg" />
+	<bird id="340" name="Yellow-billed Stork" location="" url="https://farm66.static.flickr.com/65535/48489425527_7d66e88282_b.jpg" />
+	<bird id="27" name="Yellow-billed Stork" location="Chobe" url="https://farm6.static.flickr.com/5812/22950951325_6dc2041a43_b.jpg" />
+	<bird id="29" name="Yellow-billed Stork" location="Chobe" url="https://farm1.static.flickr.com/718/22955220102_2caf25e702_b.jpg" />
+	<bird id="56" name="Yellow-billed Stork" location="Kafue" url="https://farm6.static.flickr.com/5735/22552822687_e798a2c64c_b.jpg" />
+	<bird id="196" name="Yellow-billed Stork" location="Tanzania" url="https://farm66.static.flickr.com/65535/48489687902_3844874e1a_b.jpg" />
+	<bird id="111" name="Yellow-crowned night heron" location="Galapagos" url="https://farm5.static.flickr.com/4733/38476849314_7cd59386a1_b.jpg" />
+	<bird id="112" name="Yellow-crowned night heron" location="Galapagos" url="https://farm5.static.flickr.com/4726/27406918129_ce445b688e_b.jpg" />
+</birds>
+

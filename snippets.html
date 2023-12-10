@@ -1,0 +1,101 @@
+<head>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="/docs/scripts/photoset.js"></script>
+    <script type="text/javascript" src="/docs/scripts/highslide/highslide-full.min.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function(){
+            jQuery(".readmore span").text('See more ...');
+            jQuery("a.highslide").attr("onclick","return hs.expand(this)");
+            jQuery('div.photoset').each(function(){
+                $setid = jQuery(this).attr('title');
+                $divid = jQuery(this).attr('id');
+                displayPhotoSet($setid, $divid, 300);
+            });
+        });
+        
+        hs.graphicsDir = '/docs/scripts/highslide/graphics/';
+        hs.outlineType = 'rounded-white';
+        hs.showCredits = false;
+        hs.captionEval = 'this.thumb.alt';
+        hs.align = 'center';
+    //	hs.allowSizeReduction = false;
+        
+        hs.dimmingOpacity = 0.8;
+        hs.fadeInOut = true;
+        hs.numberPosition = 'caption';
+        
+        hs.transitions = ['expand', 'crossfade'];
+
+        hs.addSlideshow({
+    //		slideshowGroup: 'photoset',
+            interval: 5000,
+            repeat: true,
+            useControls: true,
+            fixedControls: 'fit',
+            overlayOptions: {
+                opacity: .6,
+                position: 'bottom center',
+                hideOnMouseOut: true
+            }
+        });
+    </script>
+<!--
+    ...
+
+-->
+<link rel="shortcut icon" href="/docs/images/map.ico" />
+<link type="text/css" rel="stylesheet" href="/docs/css/photoset.css" />
+<link type="text/css" rel="stylesheet" href="/docs/css/travelshot.css" />
+<link type="text/css" rel="stylesheet" href="/docs/css/IntroJS.css" />
+<link type="text/css" rel="stylesheet" href="/docs/scripts/highslide/highslide.css" />
+</head>
+<body>
+    <p><a class="btn btn-default pull-right" title="Help" href="javascript:void(0);" onclick="startIntro(); >Help with Panoramas</a></p>
+    <div class="masthead">
+            <ul id="step2" class="nav nav-pills pull-right">
+                <li><a href="https://github.com/usablica/intro.js/tags"><i class='icon-black icon-download-alt'></i> Download</a></li>
+                <li><a href="https://github.com/usablica/intro.js">Github</a></li>
+                <li><a href="https://twitter.com/usablica">@usablica</a></li>
+            </ul>
+            <h3 class="muted">Intro.js</h3>
+    </div>
+    <div class="jumbotron">
+        <h1 id="step1">HTML in tooltip</h1>
+        <p id="step3" class="lead">We're going to use HTML codes in tooltips via Programmatic API</p>
+        <a class="btn btn-large btn-success" href="javascript:void(0);" onclick="startIntro();">Show me how</a>
+    </div>
+<!--
+    ...
+-->
+<script type="text/javascript" src="/docs/scripts/IntroJS.js"></script>
+<script type="text/javascript">
+    function startIntro(){
+        var intro = introJs();
+        intro.setOptions({
+            steps: [
+                {
+                    element: '#step1',
+                    intro: 'This is a <b>bold</b> tooltip.<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis augue a neque cursus ac blandit orci faucibus. Phasellus nec metus purus.</p>'
+                },
+                {
+                    element: '#72157658298910456',
+                    intro: "Ok, <i>wasn&apos;t</i> that fun?",
+                    position: 'right'
+                }
+            ]
+        });
+
+        intro.start();
+    }
+</script>
+<script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      
+        ga('create', 'UA-4253844-9', 'auto');
+        ga('send', 'pageview');
+      
+      </script>
+</body>
